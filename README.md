@@ -19,3 +19,6 @@
 ![project_arch](https://github.com/renatomateusx/aws-ai-kinesis-data-stream/assets/4579323/0acf5413-c576-4b44-a8eb-cffb9d3f53db)
 
 # Project Preview
+
+https://github.com/renatomateusx/aws-ai-kinesis-data-stream/assets/4579323/1bf07ada-f4a6-4fd3-8ebd-726c2ea8938b
+
