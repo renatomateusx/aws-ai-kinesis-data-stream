@@ -17,3 +17,5 @@
 * 7 - In this lab, we’ll log out the data and verify it.
 
 ![project_arch](https://github.com/renatomateusx/aws-ai-kinesis-data-stream/assets/4579323/0acf5413-c576-4b44-a8eb-cffb9d3f53db)
+
+# Project Preview
