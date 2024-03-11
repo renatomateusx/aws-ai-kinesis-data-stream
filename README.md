@@ -1,5 +1,5 @@
 
-# Project made for show how to upload a text file - trigger lambda functions for reading the content.
+# Project made to show how to upload a text file - trigger lambda functions for reading the content.
 # Case Study
 
 * 1 - We have an application which uploads text files to S3 Bucket.
